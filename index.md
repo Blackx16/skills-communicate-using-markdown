@@ -7,3 +7,11 @@ Added _kanye West_'s image.
 ```kanye west
 father strech my hands
 ```
+To do list
+- [x] Domain 1: Introduction to Git and GitHub 
+- [ ] Domain 2: Working with GitHub Repositories 
+- [ ] Domain 3: Collaboration Features
+- [ ] Domain 4: Modern Development 
+- [ ] Domain 5: Project Management
+- [ ] Domain 6: Privacy, Security, and Administration
+- [ ] Domain 7: Benefits of the GitHub Community
